@@ -1,5 +1,5 @@
 # alsa-rawmidi-out-example
-Simple Linux example code in C for ALSA RawMIDI out
+Simple Linux example code in C for ALSA RawMIDI out. To connect to MIDI hardware, or software if the default to create a virtual RawMIDI port is used.
 
 ### dependencies for compilation (please report missing dependencies to list):
 	sudo apt-get install libasound2-dev
